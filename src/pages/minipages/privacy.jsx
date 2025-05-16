@@ -8,9 +8,7 @@ export const Privacy = () => {
         <p className="text-lg text-gray-700 mb-4">
           Hey there! Just so you know, all the data we use comes from publicly available sources. We’re not affiliated with any universities or consultants—promise! 🙅‍♂️💼
         </p>
-        <p className="text-lg text-gray-700 mb-4">
-          Disclaimer: If you're hoping for a magic formula to get into a university, it doesn’t exist (trust us, we’ve tried). We’re not responsible for any dreams dashed by unrealistic promises or magical consultants. 😉
-        </p>
+      
         <p className="text-lg text-gray-700 mb-4">
           A little extra transparency: Some of the information we gather comes from friendly corners of the internet like Reddit threads, student forums, and publicly available university stats. We love a good data dive. 📊🕵️‍♂️
         </p>
@@ -22,6 +20,9 @@ export const Privacy = () => {
         </p>
         <p className="text-lg text-gray-700 mb-6">
           So, just a heads-up: Read the fine Application print, use your own judgment, and remember—you’re the one in control of your application journey! 🎓✨
+        </p>
+          <p className="text-lg text-gray-700 mb-4">
+          Disclaimer: If you're hoping for a magic formula to get into a university, it doesn’t exist (trust us, we’ve tried). We’re not responsible for any dreams dashed by unrealistic promises or magical consultants. 😉
         </p>
       </div>
     </div>
